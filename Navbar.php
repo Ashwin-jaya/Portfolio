@@ -135,7 +135,7 @@ if (session_status() === PHP_SESSION_NONE) {
         <button class="hamburger" onclick="toggleMenu()">☰</button> <!--To show a dropdown like manu while using in mobile -->
 
         <div class="Options" id="nav-options">
-            <a href="Home.php">Home</a>
+            <a href="index.php">Home</a>
             <a href="about.php">About</a>
             <a href="projects.php">MyProject</a>
             <a href="shop.php">Shop</a>
